@@ -1,9 +1,33 @@
-<h1 align="center">Hi 👋, I'm Danny</h1>
-<h3 align="center">I am a recent Computer Science Graduate 👨‍🎓</h3>
+# 👋 Hi, I'm Danny Tran  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎓 **Computer Science graduate** from the University of Stuttgart  
+💻 **Aspiring Java Backend Developer** | Passionate about clean code, REST APIs, and data-driven applications  
+🌱 Currently learning **Spring Boot**, **SQL**, and **REST APIs**  
+🚀 Building small backend projects to strengthen my skills  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+### 🧩 Tech Stack
+- **Languages:** Java, Python, SQL  
+- **Frameworks & Tools:** Spring Boot, Maven, Git/GitHub, REST APIs  
+- **Databases:** MySQL, PostgreSQL  
+- **Testing:** JUnit  
+- **Others:** IntelliJ IDEA, VS Code, Postman  
+
+---
+
+### 💼 Projects
+- **[Budget Manager](#)** – Console app to track and categorize expenses (Java, File I/O)  
+- **[Simple Chat Bot](#)** – Interactive chatbot using conditionals and loops (Java)  
+
+> Check out my repositories below for more 👇  
+
+---
+
+### 📫 Get in Touch
+- 💼 [LinkedIn](https://linkedin.com/in/dannytran1806)  
+- ✉️ dannytran1806@gmail.com  
+
+---
+
+⭐️ *“Continuous improvement is better than delayed perfection.”*  

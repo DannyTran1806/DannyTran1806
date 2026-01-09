@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danny Tran  
 
 🎓 **Computer Science graduate** from the University of Stuttgart  
-💻 **Aspiring Java Backend Developer** | Passionate about clean code, REST APIs, and data-driven applications  
+💻 **Aspiring Java Backend Developer**
 🌱 Currently learning **Spring Boot**, **SQL**, and **REST APIs**  
 🚀 Building small backend projects to strengthen my skills  
 

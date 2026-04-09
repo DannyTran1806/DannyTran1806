@@ -1,24 +1,23 @@
 # 👋 Hi, I'm Danny Tran  
 
 🎓 **Computer Science graduate** from the University of Stuttgart  
-💻 **Aspiring Java Backend Developer**
-🌱 Currently learning **Spring Boot**, **SQL**, and **REST APIs**  
-🚀 Building small backend projects to strengthen my skills  
+📊 Currently pursuing a Master’s in Data Science  
+
+🚀 Aspiring Data Engineer focused on building data pipelines  
+and working with structured data using Python and SQL  
 
 ---
 
 ### 🧩 Tech Stack
-- **Languages:** Java, Python, SQL  
-- **Frameworks & Tools:** Spring Boot, Maven, Git/GitHub, REST APIs  
-- **Databases:** MySQL, PostgreSQL  
-- **Testing:** JUnit  
-- **Others:** IntelliJ IDEA, VS Code, Postman  
+- **Languages:** Python, SQL  
+- **Data:** Pandas, NumPy  
+- **Databases:** PostgreSQL  
+- **Tools:** Git, Docker (basic), Jupyter  
 
 ---
 
 ### 💼 Projects
-- **[Budget Manager](#)** – Console app to track and categorize expenses (Java, File I/O)  
-- **[Simple Chat Bot](#)** – Interactive chatbot using conditionals and loops (Java)  
+- [COMING SOON]
 
 > Check out my repositories below for more 👇  
 
@@ -26,7 +25,6 @@
 
 ### 📫 Get in Touch
 - 💼 [LinkedIn](https://linkedin.com/in/dannytran1806)  
-- ✉️ dannytran1806@gmail.com  
 
 ---
 
